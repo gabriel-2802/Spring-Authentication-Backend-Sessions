@@ -1,1 +1,3 @@
-### User Register - Login Functionality using sessions
+### User Autehntication Application
+
+* It allows user registration and sign it
